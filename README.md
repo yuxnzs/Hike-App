@@ -9,7 +9,7 @@
 ## 使用技術 🔧
 
 - **Swift**：負責應用程式的邏輯撰寫
-- **SwiftUI**：透過 `SwiftUI` 製作前端畫面，使用包括 `@State`、`LinearGradient`、`.sheet`、`.clipShape`、`.offset`、`.onAppear`、`withAnimation` 等
+- **SwiftUI**：透過 SwiftUI 製作前端畫面，使用包括 `@State`、`LinearGradient`、`.sheet`、`.clipShape`、`.offset`、`.onAppear`、`withAnimation` 等
 
 ## 功能 🚀
 
